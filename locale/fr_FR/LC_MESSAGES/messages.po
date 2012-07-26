@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2012-07-19 12:53-0400\n"
+"POT-Creation-Date: 2012-07-26 17:53+0200\n"
 "PO-Revision-Date: 2012-07-19 12:53-0400\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: fr_FR <LL@li.org>\n"
@@ -18,10 +18,18 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 0.9.6\n"
 
+#, fuzzy
+msgid " association added!"
+msgstr "Compte Twitter ajouté!"
+
 msgid " disassociated!"
-msgstr ""
+msgstr " dissociés!"
 
 msgid " not found for this user!"
+msgstr " non trouvé pour cet utilisateur"
+
+#, python-format
+msgid "%s authentication is not implemented yet."
 msgstr ""
 
 msgid ""
@@ -29,309 +37,347 @@ msgid ""
 "associate it right now, if you login with existing site account or create"
 " new on Sign up page."
 msgstr ""
+"Ce compte associé à votre compte Twitter n'existe pas. Vous pouvez \"\n"
+"\"l'associer dès à présent, si vous vous identifiez avec un compte "
+"existant ou en créez un\"\n"
+"\" faîtes-le sur la page d'Inscription."
 
 msgid "Associate account with:"
-msgstr ""
+msgstr "Associer le compte avec :"
 
 msgid "Change your email"
-msgstr ""
+msgstr "Changer votre email"
 
 msgid "Change your password"
-msgstr ""
+msgstr "Changer votre mot de passe"
 
 msgid "Confirm Password"
-msgstr ""
+msgstr "Confirmer le mot de passe"
 
 msgid "Congratulations"
-msgstr ""
+msgstr "Félicitations"
 
 msgid "Congratulations on your Google App Engine Boilerplate powered page."
-msgstr ""
+msgstr "Félicitations pour votre page produite par Google App Engine Boilerplate."
 
 msgid "Contact"
-msgstr ""
+msgstr "Contact"
 
 msgid "Country"
-msgstr ""
+msgstr "Pays"
 
 msgid "Current Password"
-msgstr ""
+msgstr "Mot de passe courant"
 
 msgid "Don't have an account?"
-msgstr ""
+msgstr "Non inscrit?"
 
 msgid "Edit Profile"
-msgstr ""
+msgstr "Editer son profile"
 
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 msgid "Enter a new email address"
-msgstr ""
+msgstr "Entrer une nouvelle adresse mail"
 
 msgid "Enter your"
-msgstr ""
+msgstr "Entrer votre"
 
 msgid "Error sending the message. Please try again later."
-msgstr ""
+msgstr "Une erreur a envoyé le message. S'il vous plaît, réessayez plus tard."
 
 msgid "Existing social association:"
+msgstr "Association avec un compte social existant :"
+
+msgid "Federated login is disabled."
 msgstr ""
 
 msgid "Forgot your password?"
-msgstr ""
+msgstr "Mot de passe oublié?"
 
 msgid "Google App Engine Boilerplate is released under the"
-msgstr ""
+msgstr "Google App Engine Boilerplate est sous licence "
 
 msgid "If the e-mail address you entered"
-msgstr ""
+msgstr "Si l'adresse mail saisie"
 
 msgid "If the username you entered"
-msgstr ""
+msgstr "Si le nom d'utilisateur saisi"
 
 msgid "Invalid email address."
-msgstr ""
+msgstr "L'adresse mail est invalide."
 
 msgid "Language"
-msgstr ""
+msgstr "Langage"
 
 msgid "Last Name"
-msgstr ""
+msgstr "Nom de famille"
 
 msgid "Learn why this Boilerplate Rocks"
-msgstr ""
+msgstr "Sachez pourquoi ce Boilerplate 'Rocks'"
 
 msgid "Login"
-msgstr ""
+msgstr "Identifiant"
 
 msgid "Login invalid, Try again."
-msgstr ""
+msgstr "Identifiant invalide, essayer à nouveau."
 
 msgid "Logout"
-msgstr ""
+msgstr "Se déconnecter"
 
 msgid "Message"
-msgstr ""
+msgstr "Message"
 
 msgid "Message sent successfully."
-msgstr ""
+msgstr "Message envoyé avec succès."
 
 msgid "Name"
-msgstr ""
+msgstr "Nom"
 
 msgid "New Password"
+msgstr "Nouveau mot de passe"
+
+#, python-format
+msgid ""
+"No user authentication information received from %s.  Please ensure you "
+"are logging in from an authorized OpenID Provider (OP)."
 msgstr ""
 
 msgid "Or Sign in using:"
-msgstr ""
+msgstr "Ou s'identifier avec:"
 
 msgid "Or click"
-msgstr ""
+msgstr "Ou cliquer"
 
 msgid "Password"
-msgstr ""
+msgstr "Mot de passe"
 
 msgid "Password changed successfully"
-msgstr ""
+msgstr "Mot de passe changé avec succès"
 
 msgid "Password reminder"
-msgstr ""
+msgstr "Retouver son mot de passe"
 
 msgid "Passwords must match."
-msgstr ""
+msgstr "Les mots de passe doivent correspondre."
 
 msgid "Please check your email to activate your account"
-msgstr ""
+msgstr "S'il vous plaît, vérifiez votre boîte mail pour activer votre compte"
 
 msgid ""
 "Please check your new email for confirmation. Your email will be updated "
 "after confirmation."
 msgstr ""
+"S'il vous plaît, vérifiez l'arrivée d'un nouvel email pour confirmation. "
+"Votre email sera mis à jour \"\n"
+"\"après confirmation"
 
 msgid "Please click below to create a new password:"
-msgstr ""
+msgstr "S'il vous plaît, cliquer ci-dessous pour créer un nouveau mot de passe :"
 
 msgid "Please correct the form errors."
-msgstr ""
+msgstr "S'il vous plaît, corriger les erreurs du formulaire."
 
 msgid "Please login to your account"
-msgstr ""
+msgstr "S'il vous plaît, connectez-vous à votre compte"
 
 msgid "Remember me?"
-msgstr ""
+msgstr "Se souvenir de moi"
 
 msgid "Remove"
-msgstr ""
+msgstr "Retirer"
 
 msgid "Reset password"
-msgstr ""
+msgstr "Réinitialiser le mot de passe"
 
 msgid "Secure Page"
-msgstr ""
+msgstr "Page sécurisée"
 
 msgid "Secure zone error:"
-msgstr ""
+msgstr "Erreur sur la zone sécurisée:"
 
 msgid "Send Message"
-msgstr ""
+msgstr "Envoyer le message"
 
 msgid "Sign Up"
-msgstr ""
+msgstr "S'inscrire"
 
 msgid "Social account on "
-msgstr ""
+msgstr "Compte social sur "
 
 msgid "Some error occured"
-msgstr ""
+msgstr "Des erreurs se sont produites"
 
 msgid "Sorry"
-msgstr ""
+msgstr "Désolé"
 
 msgid "Sorry you are not logged in!"
-msgstr ""
+msgstr "Désolé vous n'êtes pas connecté!"
 
 msgid "Sorry, This user"
-msgstr ""
+msgstr "Désolé, cet utilisateur"
 
 msgid "Sorry, your account"
-msgstr ""
+msgstr "Désolé, votre compte"
 
 msgid "Source Code"
-msgstr ""
+msgstr "Code source"
 
 #, python-format
 msgid "The email %s is already registered."
-msgstr ""
+msgstr "Cet email %s est déjà enregistré."
 
 msgid "The verification email has been resent to"
-msgstr ""
+msgstr "La vérification de l'email a été renvoyé à"
 
 msgid ""
 "There was an error or the link is outdated. Please copy and paste the "
 "link from your email or enter your details again below to get a new one."
 msgstr ""
+"Il y a eu une erreur ou le lien n'est plus à jour. S'il vous plaît "
+"copier-coller le\"\n"
+"\"lien de votre email ou entrer à nouveau vos coordonnées ci-dessous afin"
+" d'en obtenir un nouveau."
+
+#, fuzzy, python-format
+msgid "This %s account is already in use!"
+msgstr "Ce compte Twitter est déjà utilisé!"
 
 msgid "This Twitter account is already in use!"
-msgstr ""
+msgstr "Ce compte Twitter est déjà utilisé!"
 
 msgid "Twitter association added!"
-msgstr ""
+msgstr "Compte Twitter ajouté!"
 
 msgid "Unable to update profile!"
-msgstr ""
+msgstr "Impossible de modifier le profile!"
 
 msgid "Unexpected error activating account"
-msgstr ""
+msgstr "Erreur inattendue en activant le compte"
 
 msgid "Unexpected error creating user"
-msgstr ""
+msgstr "Erreur inattendue en créant l'utilisateur"
 
 msgid "Upgrade to a different browser"
-msgstr ""
+msgstr "Mise à niveau vers un navigateur différent"
 
 msgid "User is logged out, but there was an error on the redirection."
-msgstr ""
+msgstr "Utilisateur déconnecté, mais il y avait une erreur de redirection."
 
 msgid "Username"
-msgstr ""
+msgstr "Nom d'utilisateur"
 
 msgid "Username invalid. Use only letters and numbers."
-msgstr ""
+msgstr "Nom d'utilisateur invalide (chiffres et lettres seulement)."
 
 msgid "Username or Email"
-msgstr ""
+msgstr "Nom d'utilisateur ou Email"
 
 msgid "Welcome"
-msgstr ""
+msgstr "Bienvenue"
 
 msgid "Wrong image verification code. Please try again."
 msgstr ""
+"Erreur sur le code de vérification image. S'il vous plaît, essayer à "
+"nouveau."
 
 msgid "You are now registered"
-msgstr ""
+msgstr "Vous êtes maintenant inscrit"
 
 msgid "You didn't change your email"
-msgstr ""
+msgstr "Vous ne pouvez pas changer votre email"
 
-msgid "You've signed out successfully."
+msgid ""
+"You've signed out successfully.  Warning: Please clear all cookies and "
+"logout              of OpenId providers too if you logged in on a public "
+"computer."
 msgstr ""
 
 msgid "Your Current Password is wrong, please try again"
-msgstr ""
+msgstr "Erreur sur votre mot de passe courant, s'il vous plaît essayer à nouveau"
 
 msgid "Your account"
-msgstr ""
+msgstr "Votre compte"
 
 msgid "Your account has been activated"
-msgstr ""
+msgstr "Votre compte a été activé"
 
 msgid "Your browser is <em>ancient!</em>"
-msgstr ""
+msgstr "Votre navigateur est <em>ancien!</em>"
 
 msgid "Your email / username was not found. Please try another or "
 msgstr ""
+"Votre email / nom d'utilisateur n'a pas été trouvé. S'il vous plaît "
+"essayer un autre ou "
 
 msgid "Your new username is "
-msgstr ""
+msgstr "Votre nouveau nom d'utilisateur est "
 
 msgid "Your password is wrong, please try again"
-msgstr ""
+msgstr "Erreur sur votre mot de passe, s'il vous plaît essayer à nouveau"
 
 msgid "Your profile has been updated!"
-msgstr ""
+msgstr "Votre profile a été mis à jour!"
 
 msgid "contact us"
-msgstr ""
+msgstr "Contactez-nous"
 
 msgid "create an account"
-msgstr ""
+msgstr "créer un compte"
 
 msgid "download the Source Code"
-msgstr ""
+msgstr "télécharger le code source"
 
 msgid "for further assistance."
-msgstr ""
+msgstr "pour plus d'assitance."
 
 msgid "has just been activated"
-msgstr ""
+msgstr "a été activé"
 
 msgid "has not been activated. Please check your email to activate your account"
 msgstr ""
+"n'a pas été activé. S'il vous plaît, vérifier votre boîte mail pour "
+"activer votre compte"
 
 msgid "install Google Chrome Frame"
-msgstr ""
+msgstr "installer Google Chrome"
 
 msgid "is already registered."
-msgstr ""
+msgstr "est déjà enregistré"
 
 msgid "is already taken. It is not changed."
-msgstr ""
+msgstr "est déjà utilisé. Il ne sera pas changé."
 
 msgid ""
 "is associated with an account in our records, you will receive an e-mail "
 "from us with instructions for resetting your password. <br>If you don't "
 "receive this e-mail, please check your junk mail folder or "
 msgstr ""
+"est associé à un compte dans notre base, vous recevrez un mail \"\n"
+"\"de notre part avec les instructions pour changer votre mot de passe. "
+"<br>Si vous ne \"\n"
+"\"recevez pas ce mail, s'il vous plaît, vérifiez dans votre dossier "
+"'indésirable' ou "
 
 msgid "or"
-msgstr ""
+msgstr "ou"
 
 msgid "or just"
-msgstr ""
+msgstr "ou simplement"
 
 msgid "this"
-msgstr ""
+msgstr "ce"
 
 msgid "to experience this site."
-msgstr ""
+msgstr "de faire l'expérience de ce site."
 
 msgid "to help you to create your application."
-msgstr ""
+msgstr "pour vous aider à créer votre application."
 
 msgid "to resend the email"
-msgstr ""
+msgstr "de renvoyer l'email"
 
 msgid "you are now logged in."
-msgstr ""
+msgstr "vous êtes connecté."
 

@@ -91,7 +91,7 @@ msgid "Existing social association:"
 msgstr "Association avec un compte social existant :"
 
 msgid "Federated login is disabled."
-msgstr ""
+msgstr "Le login fédéré n'est pas activé."
 
 msgid "Forgot your password?"
 msgstr "Mot de passe oublié?"
@@ -157,7 +157,7 @@ msgid "Password changed successfully"
 msgstr "Mot de passe changé avec succès"
 
 msgid "Password reminder"
-msgstr "Retouver son mot de passe"
+msgstr "Se souvenir de son mot de passe"
 
 msgid "Passwords must match."
 msgstr "Les mots de passe doivent correspondre."
@@ -260,7 +260,7 @@ msgid "Unexpected error creating user"
 msgstr "Erreur inattendue en créant l'utilisateur"
 
 msgid "Upgrade to a different browser"
-msgstr "Mise à niveau vers un navigateur différent"
+msgstr "Changer de navigateur"
 
 msgid "User is logged out, but there was an error on the redirection."
 msgstr "Utilisateur déconnecté, mais il y avait une erreur de redirection."
@@ -278,9 +278,7 @@ msgid "Welcome"
 msgstr "Bienvenue"
 
 msgid "Wrong image verification code. Please try again."
-msgstr ""
-"Erreur sur le code de vérification image. S'il vous plaît, essayer à "
-"nouveau."
+msgstr "Erreur sur le code de vérification image. S'il vous plaît, essayer à nouveau."
 
 msgid "You are now registered"
 msgstr "Vous êtes maintenant inscrit"
@@ -292,7 +290,9 @@ msgid ""
 "You've signed out successfully.  Warning: Please clear all cookies and "
 "logout              of OpenId providers too if you logged in on a public "
 "computer."
-msgstr ""
+msgstr "Vous vous êtes déconecté avec succès. Attention : s'il vous plaît "
+"éffacer tous les cookies et déconnectez-vous de votre session aussi, si vous vous êtes connecté "
+"sur un ordinateur public."
 
 msgid "Your Current Password is wrong, please try again"
 msgstr "Erreur sur votre mot de passe courant, s'il vous plaît essayer à nouveau"
@@ -307,9 +307,7 @@ msgid "Your browser is <em>ancient!</em>"
 msgstr "Votre navigateur est <em>ancien!</em>"
 
 msgid "Your email / username was not found. Please try another or "
-msgstr ""
-"Votre email / nom d'utilisateur n'a pas été trouvé. S'il vous plaît "
-"essayer un autre ou "
+msgstr "Votre email / nom d'utilisateur n'a pas été trouvé. S'il vous plaît essayer un autre ou "
 
 msgid "Your new username is "
 msgstr "Votre nouveau nom d'utilisateur est "
@@ -336,15 +334,13 @@ msgid "has just been activated"
 msgstr "a été activé"
 
 msgid "has not been activated. Please check your email to activate your account"
-msgstr ""
-"n'a pas été activé. S'il vous plaît, vérifier votre boîte mail pour "
-"activer votre compte"
+msgstr "n'a pas été activé. S'il vous plaît, vérifier votre boîte mail pour activer votre compte"
 
 msgid "install Google Chrome Frame"
 msgstr "installer Google Chrome"
 
 msgid "is already registered."
-msgstr "est déjà enregistré"
+msgstr "est déjà enregistré."
 
 msgid "is already taken. It is not changed."
 msgstr "est déjà utilisé. Il ne sera pas changé."
